@@ -1,0 +1,2 @@
+Para iniciar el servidor tenemos que ejecutar el comando
+"npm run dev" o "npm start"
