@@ -4,7 +4,7 @@
 
 ![Final result of the project](insta-2.png)
 
-<h4 align="center"><a href="">Click to visit the project</a></h4>
+<h4 align="center"><a href="https://clone-instagram-six.vercel.app/">Click to visit the project</a></h4>
 
 
 ## 💼 Technologies used
